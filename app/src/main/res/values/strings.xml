@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- App name -->
     <string name="app_name">Task Manager</string>
 
-    <!-- MainActivity -->
     <string name="task_list_title">Your Tasks</string>
     <string name="add_task">Add Task</string>
 
-    <!-- AddEditTaskActivity -->
     <string name="task_title_hint">Task Title</string>
     <string name="task_description_hint">Description</string>
     <string name="task_due_date_hint">Due Date (YYYY-MM-DD)</string>
@@ -15,11 +12,9 @@
     <string name="title_due_required">Title and Due Date are required</string>
     <string name="task_saved">Task saved</string>
 
-    <!-- TaskDetailsActivity -->
     <string name="delete_task">Delete Task</string>
     <string name="task_deleted">Task deleted</string>
 
-    <!-- Common -->
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
     <string name="edit_task">Edit Task</string>
