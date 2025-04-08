@@ -1,10 +1,10 @@
 package com.demo.taskmanager;
 
 public class Task {
-    private int id;
-    private String title;
-    private String description;
-    private String dueDate;
+    private final int id;
+    private final String title;
+    private final String description;
+    private final String dueDate;
 
     public Task(int id, String title, String description, String dueDate) {
         this.id = id;
