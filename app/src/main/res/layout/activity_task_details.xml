@@ -27,7 +27,7 @@
         android:id="@+id/deleteButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Delete Task"
+        android:text="@string/delete_task"
         android:backgroundTint="@android:color/holo_red_light"
         android:textColor="@android:color/white" />
 
@@ -35,7 +35,7 @@
         android:id="@+id/editButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Edit Task"
+        android:text="@string/edit_task"
         android:backgroundTint="@android:color/holo_blue_dark"
         android:textColor="@android:color/white" />
 </LinearLayout>
